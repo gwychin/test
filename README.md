@@ -2,4 +2,4 @@
 Simple readme file
 
 #Header 2
-meme conflict 2
+Meme conflict
